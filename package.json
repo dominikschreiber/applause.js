@@ -1,0 +1,5 @@
+{
+	"name": "applause.js",
+	"description": "simple configuration management with applause.json file and multiple fallbacks",
+	"author": "Dominik Schreiber <dominik@dominikschreiber.com>"
+}
