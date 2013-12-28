@@ -1,5 +1,12 @@
 {
-	"name": "applause.js",
-	"description": "simple configuration management with applause.json file and multiple fallbacks",
-	"author": "Dominik Schreiber <dominik@dominikschreiber.com>"
+  "name": "applause.js",
+  "version": "0.0.1",
+  "description": "simple configuration management with applause.json file and multiple fallbacks",
+  "author": "Dominik Schreiber <dominik@dominikschreiber.com>",
+  "dependencies": {
+    "xtend": "*"
+  },
+  "devDependencies": {
+    "should": "~2.1.1"
+  }
 }
