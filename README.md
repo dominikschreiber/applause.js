@@ -21,11 +21,12 @@ create your base `applause.json` file (that should be used if everything else fa
 
 configure multiple versions with their own `applause.json`
 
+    // configuration 1
     {
     	"host": "your.production.server"
     	// port is inherited from the base
     }
-
+    // configuration 2
     {
     	"host": "your.other.server",
     	"port": "8000"
