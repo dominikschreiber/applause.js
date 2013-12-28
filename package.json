@@ -3,6 +3,11 @@
   "version": "0.0.1",
   "description": "simple configuration management with applause.json file and multiple fallbacks",
   "author": "Dominik Schreiber <dominik@dominikschreiber.com>",
+  "homepage": "https://github.com/dominikschreiber/applause.js",
+  "repository": {
+  	"type": "git",
+  	"url": "git://github.com/dominikschreiber/applause.js.git"
+  },
   "dependencies": {
     "xtend": "*"
   },
